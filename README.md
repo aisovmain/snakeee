@@ -23,7 +23,7 @@
 https://github.com/aisovmain/snakeee/releases/tag/snake
 
 # Распакуй
-snace.7z
+snake.7z
 
 # Играй!
 ./Snake.exe
