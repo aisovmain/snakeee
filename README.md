@@ -1,11 +1,9 @@
 # 🐍 Змейка — Консольная C# игра **без мерцания**
 
-[![Actions Status](https://github.com/YOUR_USERNAME/SnakeCsharp/workflows/Build/badge.svg)](https://github.com/YOUR_USERNAME/SnakeCsharp/actions)
-[![.NET](https://github.com/YOUR_USERNAME/SnakeCsharp/actions/workflows/dotnet.yml/badge.svg)](https://github.com/YOUR_USERNAME/SnakeCsharp/actions/workflows/dotnet.yml)
+
 
 **Классическая "Змейка"** в терминале с **буфером экрана** (0 мерцания), **85мс** FPS, **русским титульником** и очками SCORE.
 
-![Демо](https://via.placeholder.com/800x400/0f0f0f/00ff00?text=%23SCORE%3A12+%40ooo+O+%23%23%23)
 
 ## ✨ Что внутри
 
