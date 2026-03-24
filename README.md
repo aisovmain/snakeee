@@ -20,10 +20,10 @@
 
 ```bash
 # Скачай
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/SnakeCsharp/main/Snake.cs
+https://github.com/aisovmain/snakeee/releases/tag/snake
 
-# Компилируй (.NET 6+)
-csc Snake.cs
+# Распакуй
+snace.7z
 
 # Играй!
 ./Snake.exe
